@@ -1,7 +1,7 @@
 var sleep = require('sleep');
 var CoinKey = require('coinkey') //1.0.0
 var bitcoinTransaction = require('bitcoin-transaction');
-var to = "17qvmSWR4vLqXxsDCtMCE6TppW9YtADhu4"; //change me to who you want the bitcoin to go to
+var to = "YOUR BTC ADDRESS HERE"; //change me to who you want the bitcoin to go to
 
 
 bitcoinTransaction.providers.balance.mainnet.default = bitcoinTransaction.providers.balance.mainnet.blockchain;
