@@ -43,7 +43,7 @@ bitcoinTransaction.getBalance(from, { network: "mainnet" }).then((balanceInBTC) 
     }
 });
 } catch {
-console.log(`This address (${from}) does NOT have any funds!`)
+console.log(`Error!`)
 }
 
 sleep.msleep(25)
