@@ -1,5 +1,5 @@
 # BitKrackenJS
-The all new BitKracken, now uses NodeJS. ***For educational use only***
+The all new BitKracken, now uses NodeJS. ***For educational and research use only***
 
 ## How do I run this
 * First, install NodeJS, then install dependencies by:
@@ -14,3 +14,6 @@ node index.js
 ```
 
 Easy, right?
+
+# Note
+Stealing isn't cool. That's why this tool is ***for educational and research use only.*** Also if you want to crack BIP39, see BitKrackenJS-bip39
